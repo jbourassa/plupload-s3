@@ -1,0 +1,3 @@
+[submodule "public/plupload"]
+	path = public/plupload
+	url = git@github.com:hooktstudios/plupload.git
